@@ -37,7 +37,7 @@ Here are the steps to preprocess the data.
 
 2. After finishing the previous steps, you could clone the repo.
     ```sh
-    git clone https://github.com/YerevaNN/mimic3-benchmarks/
+    git clone https://github.com/ruilialice/preprocess_MIMIC/
     cd preprocess/benchmark_preprocess
     ```
 
